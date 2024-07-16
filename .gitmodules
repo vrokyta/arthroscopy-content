@@ -1,0 +1,3 @@
+[submodule "themes/arthroscopy-theme"]
+	path = themes/arthroscopy-theme
+	url = git@github.com:TNTU-RS-internship/arthroscopy-theme.git

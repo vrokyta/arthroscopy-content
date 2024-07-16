@@ -1,0 +1,117 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Arthroscopy'
+theme = ["github.com/TNTU-RS-internship/arthroscopy-theme"]
+
+DefaultContentLanguage = "ua"
+
+[languages]
+  [languages.ua]
+  languageCode = 'ua'
+  weight = 1
+  contentDir = "content/ua"
+  [languages.ua.params]
+    footerContactButton = "Зв'яжіться з нами"
+    toMainPageButton ="На головну"
+    footer_contact_button_color = "#fde74c"
+    footer_contact_button_text_color = "#2F2F2F"
+    footerContactButtonPath = '/ua/contacts/'
+    toMainPageButtonPath = '/ua/'
+    customFooterLine1 = 'вул. Львівська 10'
+    customFooterLine2 = 'м.Львів, 44444,  Україна'
+    customFooterLine3 = '+38 000 000 0000'
+    customFooterLine4 = 'Email: team at example.com'
+    read_more_button = 'Більше'
+    consent_manage = 'Керувати налаштуваннями'
+    consent_deny = 'Відмовити'
+    consent_allow = 'Дозволити'
+    consent_outer_message_1 = 'Ми хотіли б використовувати '
+    consent_outer_message_2 = ' для покращення функціональності даного вебсайту.'
+    consent_inner_message = 'сторонній код'
+    consent_description = 'Цей код дає нам уявлення про кількість людей, які відвідують наш веб-сайт, звідки вони та що вони натискають.'
+    consent_details_link_name = 'Політика конфіденційності'
+    consent_details_link = '/ua/about/privacy/#cookies'
+    consent_details = 'Детальніше'
+    consent_allow_all = 'Дозволити всі'
+    consent_save_preferences = 'Зберегти обрані'
+ [languages.en]
+  languageCode = 'en'
+  weight = 2
+  contentDir = "content/en"
+  [languages.en.params]
+    footerContactButton = "Contact us"
+    toMainPageButton ="Home Page"
+    footer_contact_button_color = "#fde74c"
+    footer_contact_button_text_color = "#2F2F2F"
+    footerContactButtonPath = '/contacts/'
+    toMainPageButtonPath = '/en/'
+    customFooterLine1 = "Lvivs'ka St 10 "
+    customFooterLine2 = '44444, Lviv, Ukraine'
+    customFooterLine3 = '+38 000 000 0000'
+    customFooterLine4 = 'Email: team at example.com'
+    read_more_button = 'Read more'
+    consent_manage = 'Manage preferences'
+    consent_deny = 'Deny'
+    consent_allow = 'Allow'
+    consent_outer_message_1 = 'We would like to use '
+    consent_outer_message_2 = ' to improve the functionality of this website.'
+    consent_inner_message = 'third party code'
+    consent_description = 'This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.'
+    consent_details_link_name = 'Privacy statement'
+    consent_details_link = '/about/privacy/#cookies'
+    consent_details = 'Details'
+    consent_allow_all = 'Allow all'
+    consent_save_preferences = 'Save preferences'
+
+[params]
+  favicon = '/img/400.png'
+  siteLogo = '/img/desktop_logo.png'
+  siteLogoMobile = '/img/mobile_logo.png'
+  showTitleNearLogo = false
+  header_background_image = '/img/png.png'
+
+mobileMenuLight = true
+header_image_line = '/img/png_1.png'
+background_color_class = "bg-mid-gray" # header and footer default background color. Choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+body_background_color = "#FEFEFA" #D9D9D9 e0ded5
+body_classes = "avenir bg-white" # font and body background color
+recent_posts_number = 3 # for index page
+date_format = '2006-01-02'
+post_content_classes = "avenir"
+footer_contact_button_color = "#fde74c"
+footer_contact_button_text_color = "#2F2F2F"
+site_color = '#fde74c' #brand color for buttons
+locationURL = "https://www.google.com/maps/dir//Lviv+Oblast/@49.8396757,23.9884319,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x473add693e639c6f:0x630d8c8887ba3d62!2m2!1d24.029717!2d49.839683?entry=ttu"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-XXXXXXXXXX'
+
+[[params.ananke_socials]]
+name = "dockerhub"
+url = "https://hub.docker.com/"
+label = "DockerHub"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/"
+label = "Linkedin"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/"
+label = "Facebook"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/"
+label = "GitHub"
+
+showTitleNearLogo = false
