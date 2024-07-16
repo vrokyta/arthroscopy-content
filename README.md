@@ -1,12 +1,12 @@
-# scalhive-content
+# arthroscopy-content
 
-The intent of this repository is to develop the content of the scalhive organization's website using the Hugo framework.
+The intent of this repository is to develop the content of the arthroscopy organization's website using the Hugo framework.
 
 ## Useful links:
 
 - [Hugo documentation](https://gohugo.io/documentation)
 - [Hugo Installation](https://gohugo.io/installation/)
-- Theme - [scalhive-theme](https://github.com/TNTU-RS-internship/scalhive-theme.git)
+- Theme - [arthroscopy-theme](https://github.com/TNTU-RS-internship/arthroscopy-theme.git)
 - [Hugo docker images](https://hub.docker.com/r/klakegg/hugo)
 - [Hugo Internal Templates](https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates)
 - [Hugo themes](https://themes.gohugo.io/)
@@ -88,7 +88,7 @@ Website from `main` branch GitHub Actions builds using Hugo with `production` en
 and deploys this website into GitHub Pages.
 
 Website from `dev` branch GitHub Actions builds using Hugo with `DEV` environment (HUGO_ENV=DEV) and deploys 
-this website into https://dev.scalhive.com, using [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action).
+this website into https://dev.arthroscopy.com, using [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action).
 For this there are 3 secrets in environment GitHub `deployment`.
 
 For local deploy use command:
@@ -101,7 +101,7 @@ The site will be available at http://localhost:1313.
 
 Directory tree:
 ```
-scalhive-content/
+arthroscopy-content/
 ├── .github/
 │   └── workflows/
 │       └── hugo.yml
@@ -168,11 +168,11 @@ images, CSS, and JavaScript. See [details](https://gohugo.io/content-management/
 
 **.gitmodules**
 
-Include definition of [theme](https://github.com/TNTU-RS-internship/scalhive-theme) submodule
+Include definition of [theme](https://github.com/TNTU-RS-internship/arthroscopy-theme) submodule
 
 **go.mod**
 
-Include go version and defines the version of [theme](https://github.com/TNTU-RS-internship/scalhive-theme) submodule
+Include go version and defines the version of [theme](https://github.com/TNTU-RS-internship/arthroscopy-theme) submodule
 
 **docker-compose.yml**
 
@@ -225,13 +225,13 @@ include issues that need to be completed to create a new version.
 After the milestone is completed, a new pull request is created to complete the `merge` operation
 from `dev` branch to `main` branch. The merge commit that will be created is tagged with the new version.
 
-Based on this new milestone version, a release titled `scalhive-content <tag>` has been created,
+Based on this new milestone version, a release titled `arthroscopy-content <tag>` has been created,
 where `<tag>` is the tag corresponding to the completed milestone version. Also, this release is marked as `latest`.
 
 ## Update theme policy
 
-To update the version of the `scalhive-theme submodule`, a corresponding issue must be created (which can be added as 
+To update the version of the `arthroscopy-theme submodule`, a corresponding issue must be created (which can be added as 
 a task in a larger issue). This issue must have the label `update`. 
 
-The main task of this specific issue is to change the version of the scalhive-theme submodule to a new one in file 
-`/go.mod`. Changes may also be added to configuration/content files to apply new changes of scalhive-theme module.
+The main task of this specific issue is to change the version of the arthroscopy-theme submodule to a new one in file 
+`/go.mod`. Changes may also be added to configuration/content files to apply new changes of arthroscopy-theme module.
