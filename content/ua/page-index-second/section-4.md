@@ -1,16 +1,20 @@
 ---
 section_image: "/content-images/png.png"
 img_render_class: 'obj-fit-cover border-radius'
-weight: 3
+weight: 5
 ---
 
-**Лікування:**
-- Лікування травм колінного суглоба;
-- Лікування переломів кісток;
-- Лікування захворювань великих суглобів;
+**Lorem ipsum dolor:**
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
 
 
-**У сферу професійної діяльності лікаря Рокита Василя Григоровича входять::**
-- Оперативне лікування травм колінного суглоба (Артроскопічне відновлення пошкоджень менісків і хряща коліна)
-- Сучасне оперативне лікування переломів кісток
-- Спеціалізація: травми і наслідки травм великих суглобів, травми коліна, спортивні травми, малоінвазивна хірургія (артроскопія), захворювання суглобів.
+**Lorem ipsum dolor:**
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
