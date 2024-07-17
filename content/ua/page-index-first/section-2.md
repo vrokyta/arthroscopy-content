@@ -1,9 +1,20 @@
 ---
-title: "Lorem ipsum dolor"
+title: "Навіщо потрібна артроскопія?"
 section_image: "/content-images/png.png"
 img_render_class: 'obj-fit-cover border-radius'
 weight: 2
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla malesuada consequat lorem ut condimentum.
-Nunc pulvinar erat ut venenatis vehicula. Donec augue orci, vulputate vel ante eget, dictum venenatis ipsum.
-Morbi quam nisl, dignissim vitae augue a, pulvinar lacinia sapien. Fusce nulla lectus, luctus at molestie vel, lacinia id orci. 
+Артроскопія - лікувально-діагностичний метод. Іншими словами при артроскопії (на відміну від МРТ, наприклад) лікар не тільки бачить патологію, але й може її усунути (наприклад, виконати ушивання розриву зв'язки).
+За допомогою артроскопії ставиться остаточний, найбільш точний діагноз і часто відразу ж проводиться коригування виявленої патології.
+
+Ось далеко не повний список артроскопічних операцій:
+Лікування пошкоджень менісків коліна
+Реконструкція передньої і задньої хрестоподібної зв'язки коліна
+Видалення запаленої синовії (оболонки суглоба)
+Видалення вільнолежачих в порожнині суглоба фрагментів кістки і хряща
+Лікування вивихів плеча
+Ушивання розривів ротаторної манжети плеча
+Діагностика та лікування патології ліктьового і тазостегнового суглобів
+Лікування травм колінного суглоба;
+Лікування переломів кісток;
+Лікування захворювань великих суглобів;
