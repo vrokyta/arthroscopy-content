@@ -1,5 +1,5 @@
 ---
-title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+title: "Про лікаря"
 section_image: '/content-images/png.png'
 figure_render_class: ''
 middle_title_color_code: '#111111'
@@ -9,6 +9,22 @@ alt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla malesuada consequat lorem ut condimentum.
-Nunc pulvinar erat ut venenatis vehicula. Donec augue orci, vulputate vel ante eget, dictum venenatis ipsum.
-Morbi quam nisl, dignissim vitae augue a, pulvinar lacinia sapien. Fusce nulla lectus, luctus at molestie vel, lacinia id orci. 
+**Лікар ортопед-травматолог**  львівської комунальної міської клінічної лікарні швидкої медичної допомоги, 2-го травматологічного відділення. 
+
+**Спеціалізація:**
+
+Травми та наслідки травм великих суглобів, травми коліна, спортивні травми, малоінвазивна хірургія (артроскопія), захворювання суглобів. 
+
+**Стажування:**
+
+Україна 2012,2013; Польща 2012,2014; Іспанія 2013; Австрія 2013,2015; Англія 2014, Литва 2014,2015
+
+**Контакти**
+
+Комунальна міська клінічна лікарня швидкої медичної допомоги, 2-ге травматологічне відділення, 9-ий поверх. Львів Україна
+
+Мобільний:  +38 097 616-80-39
+
+Email: vasylrokyta@gmail.com
+
+
