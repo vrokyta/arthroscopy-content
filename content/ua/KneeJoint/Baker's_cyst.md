@@ -1,5 +1,5 @@
 ---
-title: Кіста Бейкера
+title: 'Кіста Бейкера'
 url: '/ua/KneeJoint/Baker's_cyst'
 omit_header_text: true
 type: page
@@ -7,7 +7,7 @@ menu:
   main:
     identifier: Baker's_cyst
     parent: KneeJoint
-    name: Кіста Бейкера
+    name: 'Кіста Бейкера'
     weight: 4
 layout: privacy
 ---

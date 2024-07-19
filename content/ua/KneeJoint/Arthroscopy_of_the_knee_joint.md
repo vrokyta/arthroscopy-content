@@ -1,5 +1,5 @@
 ---
-title: Артроскопія колінного суглоба
+title: 'Артроскопія колінного суглоба'
 url: '/ua/KneeJoint/Arthroscopy_of_the_knee_joint'
 omit_header_text: true
 type: page
@@ -7,7 +7,7 @@ menu:
   main:
     identifier: Arthroscopy_of_the_knee_joint
     parent: KneeJoint
-    name: Артроскопія колінного суглоба
+    name: 'Артроскопія колінного суглоба'
     weight: 4
 layout: privacy
 ---

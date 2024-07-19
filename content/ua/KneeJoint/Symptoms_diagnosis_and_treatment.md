@@ -1,5 +1,5 @@
 ---
-title: Болі в коліні: симптоми, діагностика та лікування
+title: 'Болі в коліні: симптоми, діагностика та лікування'
 url: '/ua/KneeJoint/Symptoms_diagnosis_and_treatment'
 omit_header_text: true
 type: page
@@ -7,7 +7,7 @@ menu:
   main:
     identifier: Symptoms_diagnosis_and_treatment
     parent: KneeJoint
-    name: Болі в коліні: симптоми, діагностика та лікування
+    name: 'Болі в коліні: симптоми, діагностика та лікування'
     weight: 4
 layout: privacy
 ---

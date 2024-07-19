@@ -1,5 +1,5 @@
 ---
-title: Хвороба Кеніга
+title: 'Хвороба Кеніга'
 url: '/ua/KneeJoint/Koenig's_disease'
 omit_header_text: true
 type: page
@@ -7,7 +7,7 @@ menu:
   main:
     identifier: Koenig's_disease
     parent: KneeJoint
-    name: Хвороба Кеніга
+    name: 'Хвороба Кеніга'
     weight: 4
 layout: privacy
 ---

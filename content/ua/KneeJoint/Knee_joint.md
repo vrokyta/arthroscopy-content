@@ -1,5 +1,5 @@
 ---
-title: Колінний суглоб
+title: 'Колінний суглоб'
 url: '/ua/KneeJoint/Knee_joint'
 omit_header_text: true
 type: page
@@ -7,7 +7,7 @@ menu:
   main:
     identifier: Knee_joint
     parent: KneeJoint
-    name: Колінний суглоб
+    name: 'Колінний суглоб'
     weight: 4
 layout: privacy
 ---

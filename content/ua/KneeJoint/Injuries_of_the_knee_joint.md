@@ -1,5 +1,5 @@
 ---
-title: Травми колінного суглоба
+title: 'Травми колінного суглоба'
 url: '/ua/KneeJoint/Injuries_of_the_knee_joint'
 omit_header_text: true
 type: page
@@ -7,7 +7,7 @@ menu:
   main:
     identifier: Injuries_of_the_knee_joint
     parent: KneeJoint
-    name: Травми колінного суглоба
+    name: 'Травми колінного суглоба'
     weight: 4
 layout: privacy
 ---

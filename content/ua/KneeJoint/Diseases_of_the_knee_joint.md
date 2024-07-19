@@ -1,13 +1,13 @@
 ---
-title: Хвороби колінного суглоба
-url: '/ua/KneeJoint/Cruciate_ligaments'
+title: 'Хвороби колінного суглоба'
+url: '/ua/KneeJoint/Diseases_of_the_knee_joint'
 omit_header_text: true
 type: page
 menu:
   main:
-    identifier: Cruciate_ligaments
+    identifier: Diseases_of_the_knee_joint
     parent: KneeJoint
-    name: Хвороби колінного суглоба
+    name: 'Хвороби колінного суглоба'
     weight: 4
 layout: privacy
 ---
