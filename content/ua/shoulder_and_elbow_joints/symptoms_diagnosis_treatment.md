@@ -1,6 +1,6 @@
 ---
 title: Симптоми, діагностика, лікування
-url: '/ua/shoulder_and_elbow_joints/symptoms_diagnosis_treatment'
+url: '/ua/disease/shoulder_and_elbow_joints/symptoms_diagnosis_treatment'
 omit_header_text: true
 type: page
 menu:
