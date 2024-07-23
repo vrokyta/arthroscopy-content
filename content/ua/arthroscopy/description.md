@@ -1,6 +1,6 @@
 ---
 title: Опис
-url: '/ua/arthroscopy/description'
+url: '/ua/disease/arthroscopy/description'
 omit_header_text: true
 type: page
 menu:

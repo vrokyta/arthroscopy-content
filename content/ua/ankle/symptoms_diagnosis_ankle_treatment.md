@@ -1,6 +1,6 @@
 ---
 title: Симптоми, діагностика, лікування гомілкостопа
-url: '/ua/ankle/symptoms_diagnosis_ankle_treatment'
+url: '/ua/disease/ankle/symptoms_diagnosis_ankle_treatment'
 omit_header_text: true
 type: page
 menu:

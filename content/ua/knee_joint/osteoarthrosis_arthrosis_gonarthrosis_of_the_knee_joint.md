@@ -1,6 +1,6 @@
 ---
 title: Остеоартроз (артроз, гонартроз) колінного суглоба
-url: '/ua/knee_joint/osteoarthrosis_arthrosis_gonarthrosis_of_the_knee_joint'
+url: '/ua/disease/knee_joint/osteoarthrosis_arthrosis_gonarthrosis_of_the_knee_joint'
 omit_header_text: true
 type: page
 menu:

@@ -1,6 +1,6 @@
 ---
 title: Ендопротезування кульшового суглоба
-url: '/ua/hip_joint/hip_replacement'
+url: '/ua/disease/hip_joint/hip_replacement'
 omit_header_text: true
 type: page
 menu:

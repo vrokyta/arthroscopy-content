@@ -1,6 +1,6 @@
 ---
 title: Анатомія кульшового суглоба
-url: '/ua/hip_joint/hip_anatomy'
+url: '/ua/disease/hip_joint/hip_anatomy'
 omit_header_text: true
 type: page
 menu:

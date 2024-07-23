@@ -1,6 +1,6 @@
 ---
 title: Симптоми, діагностика, лікування кульшового суглоба
-url: '/ua/hip_joint/symptoms_diagnosis_treatment_of_hip_joint'
+url: '/ua/disease/hip_joint/symptoms_diagnosis_treatment_of_hip_joint'
 omit_header_text: true
 type: page
 menu:

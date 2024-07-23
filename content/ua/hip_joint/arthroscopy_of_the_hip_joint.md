@@ -1,6 +1,6 @@
 ---
 title: Артроскопія кульшового суглобу
-url: '/ua/hip_joint/arthroscopy_of_the_hip_joint'
+url: '/ua/disease/hip_joint/arthroscopy_of_the_hip_joint'
 omit_header_text: true
 type: page
 menu:

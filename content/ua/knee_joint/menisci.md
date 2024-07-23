@@ -1,6 +1,6 @@
 ---
 title: Меніски
-url: '/ua/knee_joint/menisci'
+url: '/ua/disease/knee_joint/menisci'
 omit_header_text: true
 type: page
 menu:

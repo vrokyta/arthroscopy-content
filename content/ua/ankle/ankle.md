@@ -1,11 +1,15 @@
 ---
 title: Гомілкостоп
-url: '/ua/ankle'
+url: '/ua/disease/ankle'
+omit_header_text: true
+type: page
 menu:
     main:
         identifier: ankle
+        parent: disease
         name: Гомілкостоп
-        weight: 1
+        weight: 4
+layout: privacy
 ---
 
 Гомілковостопний суглоб являє собою складне анатомічне утворення, що складається з кісткової основи і зв'язкового

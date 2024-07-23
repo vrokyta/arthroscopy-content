@@ -1,11 +1,15 @@
 ---
 title: Кульшовий суглоб
-url: '/ua/hip_joint'
+url: '/ua/disease/hip_joint'
+omit_header_text: true
+type: page
 menu:
     main:
         identifier: hip_joint
+        parent: disease
         name: Кульшовий суглоб
-        weight: 1
+        weight: 3
+layout: privacy
 ---
 
 **Кульшовий суглоб** - один з найбільших суглобів у людини. Він утворений вертлюжною западиною тазової кістки та

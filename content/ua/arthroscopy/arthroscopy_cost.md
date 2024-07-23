@@ -1,6 +1,6 @@
 ---
 title: Артроскопія - вартість
-url: '/ua/arthroscopy/arthroscopy_cost'
+url: '/ua/disease/arthroscopy/arthroscopy_cost'
 omit_header_text: true
 type: page
 menu:

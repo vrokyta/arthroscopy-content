@@ -1,6 +1,6 @@
 ---
 title: Ендопротезування колінного суглоба
-url: '/ua/knee_joint/knee_joint_endoprosthesis'
+url: '/ua/disease/knee_joint/knee_joint_endoprosthesis'
 omit_header_text: true
 type: page
 menu:

@@ -1,6 +1,6 @@
 ---
 title: Хвороби кульшового суглоба
-url: '/ua/hip_joint/hip_diseases'
+url: '/ua/disease/hip_joint/hip_diseases'
 omit_header_text: true
 type: page
 menu:
