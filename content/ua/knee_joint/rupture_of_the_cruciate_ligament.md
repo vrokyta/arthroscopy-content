@@ -1,6 +1,6 @@
 ---
 title: Розрив хрестоподібної зв'язки
-url: '/ua/knee_joint/rupture_of_the_cruciate_ligament'
+url: '/ua/disease/knee_joint/rupture_of_the_cruciate_ligament'
 omit_header_text: true
 type: page
 menu:

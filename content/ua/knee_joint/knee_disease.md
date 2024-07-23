@@ -1,6 +1,6 @@
 ---
 title: Хвороби колінного суглоба
-url: '/ua/knee_joint/knee_disease'
+url: '/ua/disease/knee_joint/knee_disease'
 omit_header_text: true
 type: page
 menu:

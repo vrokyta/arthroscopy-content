@@ -1,6 +1,6 @@
 ---
 title: Артроскопія колінного суглоба
-url: '/ua/knee_joint/knee_arthroscopy'
+url: '/ua/disease/knee_joint/knee_arthroscopy'
 omit_header_text: true
 type: page
 menu:

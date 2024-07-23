@@ -1,6 +1,6 @@
 ---
 title: Переломи шийки стегна і вертлюгової ділянки
-url: '/ua/hip_joint/fractures_of_the_neck_of_the_thigh_and_a_swivel_area'
+url: '/ua/disease/hip_joint/fractures_of_the_neck_of_the_thigh_and_a_swivel_area'
 omit_header_text: true
 type: page
 menu:

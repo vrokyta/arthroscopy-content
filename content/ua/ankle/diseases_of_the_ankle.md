@@ -1,6 +1,6 @@
 ---
 title: Хвороби гомілковостопа
-url: '/ua/ankle/diseases_of_the_ankle'
+url: '/ua/disease/ankle/diseases_of_the_ankle'
 omit_header_text: true
 type: page
 menu:

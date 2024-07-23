@@ -1,6 +1,6 @@
 ---
 title: Травми кульшового суглобу
-url: '/ua/hip_joint/hymeal_injuries'
+url: '/ua/disease/hip_joint/hymeal_injuries'
 omit_header_text: true
 type: page
 menu:

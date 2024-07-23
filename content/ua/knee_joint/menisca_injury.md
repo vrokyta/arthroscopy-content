@@ -1,6 +1,6 @@
 ---
 title: Травма меніска
-url: '/ua/knee_joint/menisca_injury'
+url: '/ua/disease/knee_joint/menisca_injury'
 omit_header_text: true
 type: page
 menu:

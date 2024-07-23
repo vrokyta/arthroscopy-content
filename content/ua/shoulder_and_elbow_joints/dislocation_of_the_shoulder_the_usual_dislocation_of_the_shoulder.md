@@ -1,6 +1,6 @@
 ---
 title: Вивих плеча, звичний вивих плеча
-url: '/ua/shoulder_and_elbow_joints/dislocation_of_the_shoulder_the_usual_dislocation_of_the_shoulder'
+url: '/ua/disease/shoulder_and_elbow_joints/dislocation_of_the_shoulder_the_usual_dislocation_of_the_shoulder'
 omit_header_text: true
 type: page
 menu:

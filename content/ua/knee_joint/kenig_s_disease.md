@@ -1,6 +1,6 @@
 ---
 title: Хвороба Кеніга
-url: '/ua/knee_joint/kenig_s_disease'
+url: '/ua/disease/knee_joint/kenig_s_disease'
 omit_header_text: true
 type: page
 menu:

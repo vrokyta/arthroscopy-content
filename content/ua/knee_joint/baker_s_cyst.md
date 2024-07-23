@@ -1,6 +1,6 @@
 ---
 title: Кіста Бейкера
-url: '/ua/knee_joint/baker_s_cyst'
+url: '/ua/disease/knee_joint/baker_s_cyst'
 omit_header_text: true
 type: page
 menu:

@@ -1,6 +1,6 @@
 ---
 title: Травми колінного суглоба
-url: '/ua/knee_joint/knee_injuries'
+url: '/ua/disease/knee_joint/knee_injuries'
 omit_header_text: true
 type: page
 menu:

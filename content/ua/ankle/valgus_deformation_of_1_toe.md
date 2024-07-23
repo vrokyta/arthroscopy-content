@@ -1,6 +1,6 @@
 ---
 title: Вальгусна деформація 1 пальця стопи
-url: '/ua/ankle/valgus_deformation_of_1_toe'
+url: '/ua/disease/ankle/valgus_deformation_of_1_toe'
 omit_header_text: true
 type: page
 menu:

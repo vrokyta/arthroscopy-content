@@ -1,6 +1,6 @@
 ---
 title: 'Болі в коліні: симптоми, діагностика та лікування'
-url: '/ua/knee_joint/knee_pain_symptoms_diagnosis_and_treatment'
+url: '/ua/disease/knee_joint/knee_pain_symptoms_diagnosis_and_treatment'
 omit_header_text: true
 type: page
 menu:

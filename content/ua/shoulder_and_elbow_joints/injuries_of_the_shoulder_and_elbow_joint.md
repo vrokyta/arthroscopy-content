@@ -1,6 +1,6 @@
 ---
 title: Травми плечового та ліктьового суглоба
-url: '/ua/shoulder_and_elbow_joints/injuries_of_the_shoulder_and_elbow_joint'
+url: '/ua/disease/shoulder_and_elbow_joints/injuries_of_the_shoulder_and_elbow_joint'
 omit_header_text: true
 type: page
 menu:

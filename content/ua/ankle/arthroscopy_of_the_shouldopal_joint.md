@@ -1,6 +1,6 @@
 ---
 title: Артроскопія гомiлковостопного суглоба
-url: '/ua/ankle/arthroscopy_of_the_shouldopal_joint'
+url: '/ua/disease/ankle/arthroscopy_of_the_shouldopal_joint'
 omit_header_text: true
 type: page
 menu:

@@ -1,6 +1,6 @@
 ---
 title: Хрестоподібні зв'язки
-url: '/ua/knee_joint/cross_shaped_ligaments'
+url: '/ua/disease/knee_joint/cross_shaped_ligaments'
 omit_header_text: true
 type: page
 menu:

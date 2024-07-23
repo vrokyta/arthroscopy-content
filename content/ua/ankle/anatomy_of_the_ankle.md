@@ -1,6 +1,6 @@
 ---
 title: Анатомія гомілкостопа
-url: '/ua/ankle/anatomy_of_the_ankle'
+url: '/ua/disease/ankle/anatomy_of_the_ankle'
 omit_header_text: true
 type: page
 menu:

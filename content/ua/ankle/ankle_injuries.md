@@ -1,6 +1,6 @@
 ---
 title: Травми гомілкостопа
-url: '/ua/ankle/ankle_injuries'
+url: '/ua/disease/ankle/ankle_injuries'
 omit_header_text: true
 type: page
 menu:
