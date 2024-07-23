@@ -1,7 +1,9 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'Arthroscopy'
-theme = ["github.com/TNTU-RS-internship/arthroscopy-theme"]
+title = 'Артроскопія'
+copyright = 'Rokyta'
+#theme = ["github.com/TNTU-RS-internship/arthroscopy-theme"]
+theme = "arthroscopy-theme"
 
 DefaultContentLanguage = "ua"
 
@@ -11,17 +13,14 @@ DefaultContentLanguage = "ua"
   weight = 1
   contentDir = "content/ua"
   [languages.ua.params]
-    footerContactButton = "Зв'яжіться з нами"
+    footerContactButton = "Зв'язатись з лікарем"
     toMainPageButton ="На головну"
-    footer_contact_button_color = "#fde74c"
-    footer_contact_button_text_color = "#2F2F2F"
     footerContactButtonPath = '/ua/contacts/'
     toMainPageButtonPath = '/ua/'
-    customFooterLine1 = 'вул. Львівська 10'
-    customFooterLine2 = 'м.Львів, 44444,  Україна'
-    customFooterLine3 = '+38 000 000 0000'
-    customFooterLine4 = 'Email: team at example.com'
-    read_more_button = 'Більше'
+    customFooterLine1 = 'вул. Миколайчука 9'
+    customFooterLine2 = 'м. Львів, 79059, Україна'
+    customFooterLine3 = '+38 097 616-80-39'
+    customFooterLine4 = 'Email: vasylrokyta at gmail.com'
     consent_manage = 'Керувати налаштуваннями'
     consent_deny = 'Відмовити'
     consent_allow = 'Дозволити'
@@ -41,15 +40,12 @@ DefaultContentLanguage = "ua"
   [languages.en.params]
     footerContactButton = "Contact us"
     toMainPageButton ="Home Page"
-    footer_contact_button_color = "#fde74c"
-    footer_contact_button_text_color = "#2F2F2F"
     footerContactButtonPath = '/contacts/'
     toMainPageButtonPath = '/en/'
     customFooterLine1 = "Lvivs'ka St 10 "
     customFooterLine2 = '44444, Lviv, Ukraine'
     customFooterLine3 = '+38 000 000 0000'
     customFooterLine4 = 'Email: team at example.com'
-    read_more_button = 'Read more'
     consent_manage = 'Manage preferences'
     consent_deny = 'Deny'
     consent_allow = 'Allow'
@@ -64,23 +60,26 @@ DefaultContentLanguage = "ua"
     consent_save_preferences = 'Save preferences'
 
 [params]
-  favicon = '/img/400.png'
-  siteLogo = '/img/desktop_logo.png'
-  siteLogoMobile = '/img/mobile_logo.png'
-  showTitleNearLogo = false
+  favicon = '/img/logo.svg'
+  siteLogo = '/img/logo.svg'
+  siteLogoMobile = '/img/logo.svg'
+  showTitleNearLogo = true
   header_background_image = '/img/png.png'
 
 mobileMenuLight = true
-header_image_line = '/img/png_1.png'
 background_color_class = "bg-mid-gray" # header and footer default background color. Choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 body_background_color = "#FEFEFA" #D9D9D9 e0ded5
 body_classes = "avenir bg-white" # font and body background color
 recent_posts_number = 3 # for index page
 date_format = '2006-01-02'
 post_content_classes = "avenir"
-footer_contact_button_color = "#fde74c"
-footer_contact_button_text_color = "#2F2F2F"
-site_color = '#fde74c' #brand color for buttons
+site_color = '#7B7F92' #brand color for buttons
+dark_blue = '#2f3243'
+main_blue = '#42465B'
+light_blue = '#7B7F92'
+main_grey = '#C4C8CB'
+light_grey = '#EAEBED'
+main_red = '#E12D23'
 locationURL = "https://www.google.com/maps/dir//Lviv+Oblast/@49.8396757,23.9884319,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x473add693e639c6f:0x630d8c8887ba3d62!2m2!1d24.029717!2d49.839683?entry=ttu"
 
 [privacy]

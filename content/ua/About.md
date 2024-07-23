@@ -1,15 +1,15 @@
 ---
-title: Про нас
+title: Про лікаря
 url: '/ua/about'
-final_message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla malesuada consequat lorem ut condimentum.'
+
+layout: left-and-right
+sections_folder: page-about
 
 menu:
   main:
     identifier: about
-    name: Про нас
-    weight: 1
-layout: img-left-plus-right
-sections_folder_left: page-about-us
+    name: Про лікаря
+    weight: 3
 ---
 
 
