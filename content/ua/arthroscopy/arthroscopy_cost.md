@@ -10,6 +10,7 @@ menu:
     name: Артроскопія - вартість
     weight: 3
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 **Вартість артроскопічних операцій залежить від обраних витратних матеріалів.**

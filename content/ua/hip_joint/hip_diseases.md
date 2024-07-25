@@ -10,6 +10,7 @@ menu:
     name: Хвороби кульшового суглоба
     weight: 6
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 ### Синдром стегново-вертлюгового зіткнення (імпінджмент-синдром) 

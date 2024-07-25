@@ -6,7 +6,6 @@ weight: 3
 img_left_text_right: true
 text_left_text_right: false
 
-full_img: false
 text: |
   Лікар ортопед-травматолог. Досвід роботи - з 2010 року.
 
@@ -17,7 +16,7 @@ text: |
     - малоінвазивна хірургія (артроскопія);
     - захворювання суглобів;
 
-button_href: "https://www.youtube.com/"
+button_href: "/ua/about/"
 button_text: "Більше"
 ---
 

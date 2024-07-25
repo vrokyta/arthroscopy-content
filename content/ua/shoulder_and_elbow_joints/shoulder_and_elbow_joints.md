@@ -10,6 +10,7 @@ menu:
         name: Плечовий і ліктьовий суглоб
         weight: 2
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 **Плечовий суглоб**

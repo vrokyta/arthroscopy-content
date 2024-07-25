@@ -10,6 +10,7 @@ menu:
     name: Травми плечового та ліктьового суглоба
     weight: 4
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 ### Травми плечового суглоба 

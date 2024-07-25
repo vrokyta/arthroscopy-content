@@ -10,6 +10,7 @@ menu:
     name: Травми кульшового суглобу
     weight: 4
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 ### Пошкодження вертлюжної губи 
