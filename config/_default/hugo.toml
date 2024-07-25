@@ -2,8 +2,7 @@ baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'Артроскопія'
 copyright = 'Rokyta'
-#theme = ["github.com/TNTU-RS-internship/arthroscopy-theme"]
-theme = "arthroscopy-theme"
+theme = ["github.com/TNTU-RS-internship/arthroscopy-theme"]
 
 DefaultContentLanguage = "ua"
 
