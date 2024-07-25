@@ -10,6 +10,7 @@ menu:
     name: Артроскопія плечового та ліктьового суглоба
     weight: 7
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 **Артроскопія плечового суглоба**

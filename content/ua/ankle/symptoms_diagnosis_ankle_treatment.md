@@ -10,6 +10,7 @@ menu:
     name: Симптоми, діагностика, лікування гомілкостопа
     weight: 3
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 Причинами болі в області гомілковостопного суглоба можуть бути:

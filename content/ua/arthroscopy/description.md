@@ -10,6 +10,7 @@ menu:
     name: Опис
     weight: 2
 layout: privacy
+featured_image: '/img/background_w.jpg'
 ---
 
 **Навіщо потрібна артроскопія?**

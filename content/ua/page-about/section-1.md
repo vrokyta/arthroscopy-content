@@ -4,7 +4,9 @@ section_image: "/content-images/my_img.jpg"
 weight: 1
 
 img_left_text_right: true
+text_left_img_right: false
 text_left_text_right: false
+content_center: false
 
 text_bigger: false
 text: |
@@ -26,4 +28,3 @@ text: |
   - Англія - 2014; 
   - Литва - 2014, 2015;
 ---
-
