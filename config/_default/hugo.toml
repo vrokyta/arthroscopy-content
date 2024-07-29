@@ -79,7 +79,7 @@ light_blue = '#7B7F92'
 main_grey = '#C4C8CB'
 light_grey = '#EAEBED'
 main_red = '#E12D23'
-locationURL = "https://www.google.com/maps/dir//Lviv+Oblast/@49.8396757,23.9884319,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x473add693e639c6f:0x630d8c8887ba3d62!2m2!1d24.029717!2d49.839683?entry=ttu"
+locationURL = "https://www.google.com/maps/place/Clinical+Municipal+Communal+Emergency+Hospital/@49.8741774,24.039617,15z/data=!4m2!3m1!1s0x0:0xc124f359e9fe59c2?sa=X&ved=1t:2428&ictx=111"
 
 [privacy]
   [privacy.googleAnalytics]
