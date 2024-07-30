@@ -1,16 +1,18 @@
 ---
 title: Артроскопія гомiлковостопного суглоба
-url: '/ua/disease/ankle/arthroscopy_of_the_shouldopal_joint'
+url: '/ua/disease/ankle/arthroscopy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: arthroscopy_of_the_shouldopal_joint
     parent: ankle
-    name: Артроскопія гомiлковостопного суглоба
+    name: Артроскопія
     weight: 7
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Артроскопічна операція на гомілковостопному суглобі** складається з двох етапів: діагностичного та артроскопічного.

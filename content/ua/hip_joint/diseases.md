@@ -1,16 +1,18 @@
 ---
 title: Хвороби кульшового суглоба
-url: '/ua/disease/hip_joint/hip_diseases'
+url: '/ua/disease/hip_joint/diseases'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: hip_diseases
     parent: hip_joint
-    name: Хвороби кульшового суглоба
+    name: Хвороби
     weight: 6
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 ### Синдром стегново-вертлюгового зіткнення (імпінджмент-синдром) 

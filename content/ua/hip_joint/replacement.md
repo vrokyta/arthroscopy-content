@@ -1,16 +1,18 @@
 ---
 title: Ендопротезування кульшового суглоба
-url: '/ua/disease/hip_joint/hip_replacement'
+url: '/ua/disease/hip_joint/replacement'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: hip_replacement
     parent: hip_joint
-    name: Ендопротезування кульшового суглоба
+    name: Ендопротезування
     weight: 8
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Ендопротезування кульшового суглоба** є ефективним і часто єдиним способом відновлення втраченої функції кінцівки.

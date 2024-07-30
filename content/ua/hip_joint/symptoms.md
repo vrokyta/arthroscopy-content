@@ -1,16 +1,18 @@
 ---
 title: Симптоми, діагностика, лікування кульшового суглоба
-url: '/ua/disease/hip_joint/symptoms_diagnosis_treatment_of_hip_joint'
+url: '/ua/disease/hip_joint/symptoms'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: symptoms_diagnosis_treatment_of_hip_joint
     parent: hip_joint
-    name: Симптоми, діагностика, лікування кульшового суглоба
+    name: Симптоми, діагностика, лікування
     weight: 3
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Встановити причину болю в ділянці кульшового суглоба буває часом непросто, оскільки вона може бути викликана не тільки

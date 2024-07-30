@@ -1,16 +1,18 @@
 ---
 title: Артроскопія плечового та ліктьового суглоба
-url: '/ua/disease/shoulder_and_elbow_joints/arthroscopy_of_the_shoulder_and_elbow_joint'
+url: '/ua/disease/shoulder_and_elbow_joints/arthroscopy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: arthroscopy_of_the_shoulder_and_elbow_joint
     parent: shoulder_and_elbow_joints
-    name: Артроскопія плечового та ліктьового суглоба
+    name: Артроскопія
     weight: 7
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Артроскопія плечового суглоба**

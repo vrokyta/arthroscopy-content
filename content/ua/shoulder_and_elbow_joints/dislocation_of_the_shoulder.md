@@ -1,16 +1,18 @@
 ---
 title: Вивих плеча, звичний вивих плеча
-url: '/ua/disease/shoulder_and_elbow_joints/dislocation_of_the_shoulder_the_usual_dislocation_of_the_shoulder'
+url: '/ua/disease/shoulder_and_elbow_joints/dislocation_of_the_shoulder'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: dislocation_of_the_shoulder_the_usual_dislocation_of_the_shoulder
+    identifier: dislocation_of_the_shoulder
     parent: shoulder_and_elbow_joints
-    name: Вивих плеча, звичний вивих плеча
+    name: Вивих плеча
     weight: 5
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Головка плечової кістки лежить в суглобовій западині лопатки подібно баскетбольному м'ячу на тарілці. Отримавши великий

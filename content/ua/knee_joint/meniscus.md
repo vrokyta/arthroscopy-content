@@ -1,16 +1,18 @@
 ---
 title: Меніски
-url: '/ua/disease/knee_joint/menisci'
+url: '/ua/disease/knee_joint/meniscus'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: menisci
+    identifier: meniscus
     parent: knee_joint
     name: Меніски
     weight: 4
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Меніски** колінного суглоба являють собою хрящові прокладки. **Меніски виконують різні функції:** розподіляють

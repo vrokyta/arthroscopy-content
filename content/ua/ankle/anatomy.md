@@ -1,16 +1,18 @@
 ---
 title: Анатомія гомілкостопа
-url: '/ua/disease/ankle/anatomy_of_the_ankle'
+url: '/ua/disease/ankle/anatomy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: anatomy_of_the_ankle
     parent: ankle
-    name: Анатомія гомілкостопа
+    name: Анатомія
     weight: 2
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Гомілковостопний суглоб** утворений кістками гомілки і таранною кісткою. Суглобові поверхні кісток гомілки і їх

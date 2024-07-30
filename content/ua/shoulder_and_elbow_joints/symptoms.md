@@ -1,16 +1,18 @@
 ---
 title: Симптоми, діагностика, лікування
-url: '/ua/disease/shoulder_and_elbow_joints/symptoms_diagnosis_treatment'
+url: '/ua/disease/shoulder_and_elbow_joints/symptoms'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: symptoms_diagnosis_treatment
     parent: shoulder_and_elbow_joints
     name: Симптоми, діагностика, лікування
     weight: 3
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Болі в ліктьовому суглобі** виникають з кількох причин. Як правило, це травми, запалення суглоба і сухожиль,

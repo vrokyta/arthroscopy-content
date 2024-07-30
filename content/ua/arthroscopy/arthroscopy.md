@@ -1,16 +1,18 @@
 ---
 title: Артроскопія
 url: '/ua/disease/arthroscopy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
-    main:
-        identifier: arthroscopy
-        parent: disease
-        name: Артроскопія
-        weight: 5
-layout: privacy
-featured_image: '/img/background_w.jpg'
+  main:
+    identifier: arthroscopy
+    parent: disease
+    name: Артроскопія
+    weight: 5
 ---
 
 **Артроскопія** - хірургічна процедура, яка використовується для візуалізації, діагностики і лікування патологій суглобів. 

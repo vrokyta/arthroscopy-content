@@ -1,16 +1,18 @@
 ---
 title: Анатомія плечового та ліктьового суглоба
-url: '/ua/disease/shoulder_and_elbow_joints/anatomy_of_the_shoulder_and_elbow_joint'
+url: '/ua/disease/shoulder_and_elbow_joints/anatomy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: anatomy_of_the_shoulder_and_elbow_joint
     parent: shoulder_and_elbow_joints
-    name: Анатомія плечового та ліктьового суглоба
+    name: Анатомія
     weight: 2
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Плечовий суглоб** - є самим рухомим суглобом в тілі людини. Влаштований він таким чином, щоб дозволяти здійснювати рух

@@ -1,16 +1,18 @@
 ---
-title: Хвороби гомілковостопа
-url: '/ua/disease/ankle/diseases_of_the_ankle'
+title: Хвороби гомілковостопного суглобу
+url: '/ua/disease/ankle/diseases'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: diseases_of_the_ankle
     parent: ankle
-    name: Хвороби гомілковостопа
+    name: Хвороби
     weight: 5
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Одним з найпоширеніших захворювань в області гомілковостопного суглоба, особливо у жінок, є наслідок поперечної

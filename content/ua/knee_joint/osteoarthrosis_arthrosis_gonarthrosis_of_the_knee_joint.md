@@ -1,16 +1,18 @@
 ---
 title: Остеоартроз (артроз, гонартроз) колінного суглоба
 url: '/ua/disease/knee_joint/osteoarthrosis_arthrosis_gonarthrosis_of_the_knee_joint'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: osteoarthrosis_arthrosis_gonarthrosis_of_the_knee_joint
     parent: knee_joint
-    name: Остеоартроз (артроз, гонартроз) колінного суглоба
+    name: Артроз, остеоартроз, гонартроз
     weight: 10
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Артроз колінного суглоба** - це стан, при якому гладкі ковзаючі поверхні суглоба (суглобовий хрящ) ушкоджуються. Іноді

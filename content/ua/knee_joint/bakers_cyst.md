@@ -1,16 +1,18 @@
 ---
 title: Кіста Бейкера
-url: '/ua/disease/knee_joint/baker_s_cyst'
+url: '/ua/disease/knee_joint/bakers_cyst'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: baker_s_cyst
+    identifier: bakers_cyst
     parent: knee_joint
     name: Кіста Бейкера
     weight: 12
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Кіста Бейкера або кіста підколінної ямки** - це результат запального процесу слизових міжсухожильних сумок між

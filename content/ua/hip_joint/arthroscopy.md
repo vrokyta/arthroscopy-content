@@ -1,16 +1,18 @@
 ---
 title: Артроскопія кульшового суглобу
-url: '/ua/disease/hip_joint/arthroscopy_of_the_hip_joint'
+url: '/ua/disease/hip_joint/arthroscopy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: arthroscopy_of_the_hip_joint
     parent: hip_joint
-    name: Артроскопія кульшового суглобу
+    name: Артроскопія
     weight: 7
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Основна причина просування методу артроскопії - його можливість заглянути в самі маленькі куточки суглоба, чого не

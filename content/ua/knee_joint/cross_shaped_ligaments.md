@@ -1,16 +1,18 @@
 ---
 title: Хрестоподібні зв'язки
 url: '/ua/disease/knee_joint/cross_shaped_ligaments'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: cross_shaped_ligaments
     parent: knee_joint
     name: Хрестоподібні зв'язки
     weight: 5
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Хрестоподібні зв'язки** знаходяться в порожнині колінного суглоба, вони забезпечують стабільність кісток одна відносно

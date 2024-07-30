@@ -1,16 +1,18 @@
 ---
 title: Колінний суглоб
 url: '/ua/disease/knee_joint'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
     main:
         identifier: knee_joint
         parent: disease
         name: Колінний суглоб
         weight: 1
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Колінний суглоб** - найскладніший суглоб людини. Зважаючи цілого ряду причин колінний суглоб травмується частіше, ніж

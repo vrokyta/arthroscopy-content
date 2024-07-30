@@ -1,16 +1,18 @@
 ---
 title: Опис
 url: '/ua/disease/arthroscopy/description'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: description
     parent: arthroscopy
     name: Опис
     weight: 2
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Навіщо потрібна артроскопія?**

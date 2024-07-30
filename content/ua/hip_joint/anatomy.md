@@ -1,16 +1,18 @@
 ---
 title: Анатомія кульшового суглоба
-url: '/ua/disease/hip_joint/hip_anatomy'
+url: '/ua/disease/hip_joint/anatomy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: hip_anatomy
     parent: hip_joint
-    name: Анатомія кульшового суглоба
+    name: Анатомія
     weight: 2
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Кульшовий суглоб** є одним із самих великих суглобів нашого тіла. Через те, що людина в результаті еволюції встала на
