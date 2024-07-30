@@ -1,16 +1,18 @@
 ---
 title: Розрив хрестоподібної зв'язки
 url: '/ua/disease/knee_joint/rupture_of_the_cruciate_ligament'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: rupture_of_the_cruciate_ligament
     parent: knee_joint
     name: Розрив хрестоподібної зв'язки
     weight: 8
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Передня хрестоподібна зв'язка (ПХЗ) одна із самих травмованих зв'язок колінного суглоба. Серед всіх інших зв'язок коліна

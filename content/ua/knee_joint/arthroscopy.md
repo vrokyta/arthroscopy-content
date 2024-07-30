@@ -1,16 +1,18 @@
 ---
 title: Артроскопія колінного суглоба
-url: '/ua/disease/knee_joint/knee_arthroscopy'
+url: '/ua/disease/knee_joint/arthroscopy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: knee_arthroscopy
     parent: knee_joint
-    name: Артроскопія колінного суглоба
+    name: Артроскопія
     weight: 13
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Пацієнти, стан яких не покращується при консервативному лікуванні потребують хірургічного втручання - артроскопії

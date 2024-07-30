@@ -1,16 +1,18 @@
 ---
-title: Вальгусна деформація 1 пальця стопи
-url: '/ua/disease/ankle/valgus_deformation_of_1_toe'
+title: Вальгусна деформація 1-го пальця стопи
+url: '/ua/disease/ankle/valgus_deformation'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: valgus_deformation_of_1_toe
+    identifier: valgus_deformation
     parent: ankle
-    name: Вальгусна деформація 1 пальця стопи
+    name: Вальгусна деформація
     weight: 6
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Одним з найпоширеніших захворювань в області гомілковостопного суглоба, особливо у жінок, є наслідок поперечної

@@ -1,16 +1,18 @@
 ---
 title: Переломи шийки стегна і вертлюгової ділянки
 url: '/ua/disease/hip_joint/fractures_of_the_neck_of_the_thigh_and_a_swivel_area'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: fractures_of_the_neck_of_the_thigh_and_a_swivel_area
     parent: hip_joint
     name: Переломи шийки стегна і вертлюгової ділянки
     weight: 5
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 - Перелом шийки стегна - важка і небезпечна травма, яка може виникати як у літніх, так і у молодих людей. 

@@ -1,16 +1,18 @@
 ---
-title: Артроскопія - вартість
-url: '/ua/disease/arthroscopy/arthroscopy_cost'
+title: Вартість
+url: '/ua/disease/arthroscopy/cost'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: arthroscopy_cost
+    identifier: cost
     parent: arthroscopy
-    name: Артроскопія - вартість
+    name: Вартість
     weight: 3
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Вартість артроскопічних операцій залежить від обраних витратних матеріалів.**

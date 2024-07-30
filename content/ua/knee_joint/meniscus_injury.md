@@ -1,16 +1,18 @@
 ---
 title: Травма меніска
-url: '/ua/disease/knee_joint/menisca_injury'
+url: '/ua/disease/knee_joint/meniscus_injury'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: menisca_injury
+    identifier: meniscus_injury
     parent: knee_joint
     name: Травма меніска
     weight: 7
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Меніски** - це хрящові прошарки всередині колінного суглоба, які, в основному, виконують амортизуючу і стабілізуючу

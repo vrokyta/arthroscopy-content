@@ -1,16 +1,18 @@
 ---
 title: Хвороби колінного суглоба
-url: '/ua/disease/knee_joint/knee_disease'
+url: '/ua/disease/knee_joint/disease'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: knee_disease
     parent: knee_joint
-    name: Хвороби колінного суглоба
+    name: Хвороби
     weight: 9
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Колінний суглоб - найскладніший суглоб людини. Причинами болю в коліні можуть бути не тільки [травми коліна](), але і

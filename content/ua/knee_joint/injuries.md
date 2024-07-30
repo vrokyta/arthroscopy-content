@@ -1,16 +1,18 @@
 ---
 title: Травми колінного суглоба
-url: '/ua/disease/knee_joint/knee_injuries'
+url: '/ua/disease/knee_joint/injuries'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: knee_injuries
     parent: knee_joint
-    name: Травми колінного суглоба
+    name: Травми
     weight: 6
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Колінний суглоб** - найскладніший суглоб людини. Зважаючи цілого ряду причин колінний суглоб травмується частіше, ніж інші

@@ -1,16 +1,18 @@
 ---
-title: Травми гомілкостопа
-url: '/ua/disease/ankle/ankle_injuries'
+title: Травми гомілковостопного суглобу
+url: '/ua/disease/ankle/injuries'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: ankle_injuries
     parent: ankle
-    name: Травми гомілкостопа
+    name: Травми
     weight: 4
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Найпоширенішими травмами гомілкостопа є різні види переломів гомілковостопного суглоба, такі як: переломи кісточок,

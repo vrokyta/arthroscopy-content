@@ -1,16 +1,18 @@
 ---
 title: Симптоми, діагностика, лікування гомілкостопа
-url: '/ua/disease/ankle/symptoms_diagnosis_ankle_treatment'
+url: '/ua/disease/ankle/symptoms'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: symptoms_diagnosis_ankle_treatment
     parent: ankle
-    name: Симптоми, діагностика, лікування гомілкостопа
+    name: Симптоми, діагностика, лікування
     weight: 3
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Причинами болі в області гомілковостопного суглоба можуть бути:

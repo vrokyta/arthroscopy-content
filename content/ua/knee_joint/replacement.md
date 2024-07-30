@@ -1,16 +1,18 @@
 ---
 title: Ендопротезування колінного суглоба
-url: '/ua/disease/knee_joint/knee_joint_endoprosthesis'
+url: '/ua/disease/knee_joint/replacement'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: knee_joint_endoprosthesis
+    identifier: knee_joint_replacement
     parent: knee_joint
-    name: Ендопротезування колінного суглоба
+    name: Ендопротезування
     weight: 14
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Ендопротезування колінного суглоба** - хірургічна процедура, яка є способом відновлення втраченої функції кінцівки, з

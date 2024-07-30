@@ -1,16 +1,18 @@
 ---
 title: Травми плечового та ліктьового суглоба
-url: '/ua/disease/shoulder_and_elbow_joints/injuries_of_the_shoulder_and_elbow_joint'
+url: '/ua/disease/shoulder_and_elbow_joints/injuries'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: injuries_of_the_shoulder_and_elbow_joint
     parent: shoulder_and_elbow_joints
-    name: Травми плечового та ліктьового суглоба
+    name: Травми
     weight: 4
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 ### Травми плечового суглоба 

@@ -1,16 +1,18 @@
 ---
 title: Травми кульшового суглобу
-url: '/ua/disease/hip_joint/hymeal_injuries'
+url: '/ua/disease/hip_joint/injuries'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: hymeal_injuries
+    identifier: hip_injuries
     parent: hip_joint
-    name: Травми кульшового суглобу
+    name: Травми
     weight: 4
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 ### Пошкодження вертлюжної губи 

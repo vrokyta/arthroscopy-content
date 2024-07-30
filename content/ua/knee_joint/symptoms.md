@@ -1,16 +1,18 @@
 ---
 title: 'Болі в коліні: симптоми, діагностика та лікування'
-url: '/ua/disease/knee_joint/knee_pain_symptoms_diagnosis_and_treatment'
+url: '/ua/disease/knee_joint/symptoms'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: knee_pain_symptoms_diagnosis_and_treatment
     parent: knee_joint
-    name: 'Симптоми, діагностика та лікування'
+    name: 'Симптоми, діагностика, лікування'
     weight: 3
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 Причини і симптоми болю в області колінного суглоба. Принципово причини болю в області колінного суглоба можна розділити

@@ -1,16 +1,18 @@
 ---
 title: Плечовий і ліктьовий суглоб
 url: '/ua/disease/shoulder_and_elbow_joints'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
     main:
         identifier: shoulder_and_elbow_joints
         parent: disease
         name: Плечовий і ліктьовий суглоб
         weight: 2
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Плечовий суглоб**

@@ -1,16 +1,18 @@
 ---
 title: Хвороба Кеніга
-url: '/ua/disease/knee_joint/kenig_s_disease'
+url: '/ua/disease/knee_joint/kenigs_disease'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
-    identifier: kenig_s_disease
+    identifier: kenigs_disease
     parent: knee_joint
     name: Хвороба Кеніга
     weight: 11
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Хвороба Кеніга або розсікаючий остеохондрит внутрішнього виростка стегна** - це стан при якому виникає обмежена

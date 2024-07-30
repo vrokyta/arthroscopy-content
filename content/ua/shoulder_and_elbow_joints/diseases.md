@@ -1,16 +1,18 @@
 ---
 title: Хвороби плечового та ліктьового суглоба
-url: '/ua/disease/shoulder_and_elbow_joints/diseases_of_the_shoulder_and_elbow_joint'
+url: '/ua/disease/shoulder_and_elbow_joints/diseases'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: diseases_of_the_shoulder_and_elbow_joint
     parent: shoulder_and_elbow_joints
-    name: Хвороби плечового та ліктьового суглоба
+    name: Хвороби
     weight: 6
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Пошкодження обертальної (ротаторної) манжети плечового суглоба.** Сухожилля м'язів обертальної манжети плеча, як і всі

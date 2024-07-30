@@ -1,16 +1,18 @@
 ---
 title: Анатомія колінного суглоба
-url: '/ua/disease/knee_joint/knee_anatomy'
+url: '/ua/disease/knee_joint/anatomy'
+featured_image: '/img/background_w.jpg'
+
+layout: info_page
 omit_header_text: true
 type: page
+
 menu:
   main:
     identifier: knee_anatomy
     parent: knee_joint
-    name: Анатомія колінного суглоба
+    name: Анатомія
     weight: 2
-layout: privacy
-featured_image: '/img/background_w.jpg'
 ---
 
 **Колінний суглоб** - не тільки самий складний в організмі людини, але і самий великий. Він утворений зверху стегновою
