@@ -64,6 +64,7 @@ DefaultContentLanguage = "ua"
   siteLogoMobile = '/img/logo.svg'
   showTitleNearLogo = true
   header_background_image = '/img/png.png'
+  gtm = "GTM-TX44NWZW"
 
 mobileMenuLight = true
 background_color_class = "bg-mid-gray" # header and footer default background color. Choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -88,10 +89,6 @@ locationURL = "https://www.google.com/maps/place/Clinical+Municipal+Communal+Eme
     respectDoNotTrack = true
     useSessionStorage = false
 
-[services]
-  [services.googleAnalytics]
-    ID = 'G-XXXXXXXXXX'
-
 [[params.ananke_socials]]
 name = "dockerhub"
 url = "https://hub.docker.com/"
@@ -111,5 +108,3 @@ label = "Facebook"
 name = "github"
 url = "https://github.com/"
 label = "GitHub"
-
-showTitleNearLogo = false
