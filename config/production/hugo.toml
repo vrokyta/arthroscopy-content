@@ -1,1 +1,5 @@
+baseURL = 'https://studious-pancake-m61j3ow.pages.github.io/'
 title = 'Артроскопія'
+
+[params]
+  gtm = "GTM-TX44NWZW"
