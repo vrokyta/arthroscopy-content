@@ -6,7 +6,7 @@ The intent of this repository is to develop the content of the arthroscopy organ
 
 - [Hugo documentation](https://gohugo.io/documentation)
 - [Hugo Installation](https://gohugo.io/installation/)
-- Theme - [arthroscopy-theme](https://github.com/TNTU-RS-internship/arthroscopy-theme.git)
+- Theme - [arthroscopy-theme](https://github.com/vrokyta/arthroscopy-theme.git)
 - [Hugo docker images](https://hub.docker.com/r/klakegg/hugo)
 - [Hugo Internal Templates](https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates)
 - [Hugo themes](https://themes.gohugo.io/)
@@ -168,11 +168,11 @@ images, CSS, and JavaScript. See [details](https://gohugo.io/content-management/
 
 **.gitmodules**
 
-Include definition of [theme](https://github.com/TNTU-RS-internship/arthroscopy-theme) submodule
+Include definition of [theme](https://github.com/vrokyta/arthroscopy-theme) submodule
 
 **go.mod**
 
-Include go version and defines the version of [theme](https://github.com/TNTU-RS-internship/arthroscopy-theme) submodule
+Include go version and defines the version of [theme](https://github.com/vrokyta/arthroscopy-theme) submodule
 
 **docker-compose.yml**
 
