@@ -1,6 +1,6 @@
 ---
 title: "Плечовий і ліктьовий суглоб"
-section_image: "/content-images/shoulder_and_elbow_joints_main.png"
+section_image: "/arthroscopy-content/content-images/shoulder_and_elbow_joints_main.png"
 weight: 2
 
 img_left_text_right: false

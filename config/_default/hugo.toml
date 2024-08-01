@@ -4,6 +4,7 @@ title = 'Артроскопія'
 copyright = 'Rokyta'
 theme = ["github.com/vrokyta/arthroscopy-theme"]
 
+canonifyURLs = true
 DefaultContentLanguage = "ua"
 
 [languages]

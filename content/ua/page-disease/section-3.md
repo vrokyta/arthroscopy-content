@@ -1,6 +1,6 @@
 ---
 title: "Кульшовий суглоб"
-section_image: "/content-images/hip_joint_main.jpg"
+section_image: "/arthroscopy-content/content-images/hip_joint_main.jpg"
 weight: 3
 
 img_left_text_right: true

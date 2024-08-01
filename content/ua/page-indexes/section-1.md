@@ -1,6 +1,6 @@
 ---
 title: "Артроскопія"
-section_image: "/content-images/arthroscopy.jpg"
+section_image: "/arthroscopy-content/content-images/arthroscopy.jpg"
 weight: 1
 
 img_left_text_right: true

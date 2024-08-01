@@ -1,6 +1,6 @@
 ---
 title: "Гомілкостоп"
-section_image: "/content-images/ankle_main.jpg"
+section_image: "/arthroscopy-content/content-images/ankle_main.jpg"
 weight: 4
 
 img_left_text_right: false

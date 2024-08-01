@@ -1,6 +1,6 @@
 ---
 title: "Рокита Василь Григорович"
-section_image: "/content-images/my_img.jpg"
+section_image: "/arthroscopy-content/content-images/my_img.jpg"
 weight: 3
 
 img_left_text_right: true

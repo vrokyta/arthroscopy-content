@@ -1,6 +1,6 @@
 ---
 title: "Колінний суглоб"
-section_image: "/content-images/knee_joint_main.png"
+section_image: "/arthroscopy-content/content-images/knee_joint_main.png"
 weight: 1
 
 img_left_text_right: true
