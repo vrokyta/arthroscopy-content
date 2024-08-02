@@ -1,5 +1,6 @@
 ---
-title: Головна
+title: Рокита Василь Григорович
+description: Лікар ортопед-травматолог вищої категорії
 url: '/ua'
 cascade:
   featured_image: '/img/background.jpg'
