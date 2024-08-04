@@ -6,5 +6,4 @@ rows: 5
 placeholder: "Додаткова інформація"
 name: "entry.518823449"
 maxlength: 300
-required: required
 ---
