@@ -16,6 +16,7 @@ DefaultContentLanguage = "ua"
     footerContactButton = "Зв'язатись з лікарем"
     toMainPageButton ="На головну"
     footerContactButtonPath = '/ua/contacts/'
+    thankYou = '/arthroscopy-content/ua/thank-you/'
     toMainPageButtonPath = '/ua/'
     customFooterLine1 = 'вул. Миколайчука 9'
     customFooterLine2 = 'м. Львів, 79059, Україна'
