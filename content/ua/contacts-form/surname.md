@@ -4,7 +4,7 @@ label: "Ім'я та Прізвище"
 type: input
 input_type: text
 placeholder: "Ім'я та Прізвище *"
-name: "entry.1021425913"
+name: "entry.125485398"
 maxlength: 255
 required: required
 ---

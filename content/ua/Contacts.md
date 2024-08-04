@@ -13,7 +13,7 @@ layout: contacts-with-google-form
 form_folder: contacts-form
 response_page: '/ua/thank-you'
 
-#action: "https://docs.google.com/forms/d/e/1FAIpQLSdJNvbnLgqbiqlGbSJYdhe6gKUHQy2QotiD7aJABhYmIvZWFw/formResponse"
+action: "https://docs.google.com/forms/d/1Fa5C9gGSFet2pHMoebxNhOesqCvj3oNtKpuETRGi6l8/formResponse"
 submit_button: "Відправити"
 
 column_left_title: |
