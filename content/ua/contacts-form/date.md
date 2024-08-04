@@ -1,10 +1,10 @@
 ---
-weight: 7
+weight: 6
 label: "Бажана дата та година прийому"
-type: input
+type: datetime-local
 input_type: text
 placeholder: "Бажана дата та година прийому"
-name: "entry.1021425913"
+name: "entry.1940115720"
 maxlength: 255
 required: required
 ---
