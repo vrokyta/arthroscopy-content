@@ -1,11 +1,34 @@
 ---
-title: "Сертифікати"
+title: "Рокита Василь Григорович"
+section_image: "/arthroscopy-content/content-images/my_img.jpg"
 weight: 2
 
-img_left_text_right: false
+img_left_text_right: true
 text_left_img_right: false
 text_left_text_right: false
-content_center: true
----
+content_center: false
 
-{{< carousel_certificates items="1" height="720" unit="px" duration="7000" >}}
+text_bigger: false
+text: |
+  **Лікар ортопед-травматолог** львівської комунальної міської клінічної лікарні швидкої медичної допомоги, 2-го 
+  травматологічного відділення. 
+
+  &nbsp; &nbsp; &nbsp;
+
+  **Спеціалізація:**
+  - травми і наслідки травм великих суглобів;
+  - травми коліна;
+  - спортивні травми;
+  - малоінвазивна хірургія (артроскопія);
+  - захворювання суглобів;
+
+  &nbsp; &nbsp; &nbsp;
+
+  **Стажування:** 
+  - Україна - 2012, 2013; 
+  - Польща - 2012, 2014; 
+  - Іспанія - 2013; 
+  - Австрія - 2013, 2015; 
+  - Англія - 2014; 
+  - Литва - 2014, 2015;
+---
