@@ -78,6 +78,7 @@ post_content_classes = "avenir"
 site_color = '#7B7F92' #brand color for buttons
 dark_blue = '#2f3243'
 main_blue = '#272c57'
+normal_blue = '#0F51A7'
 light_blue = '#c1dcf7'
 main_grey = '#C4C8CB'
 light_grey = '#EAEBED'
